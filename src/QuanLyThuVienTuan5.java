@@ -8,7 +8,7 @@ import java.util.Scanner;
  * - Bài 3: Menu lặp liên tục đến khi chọn Thoát (do-while)
  * - Bài 4: Tìm sách theo mã bằng vòng lặp
  */
-public class QuanLyThuVien {
+public class QuanLyThuVienTuan5 {
 
     // Lưu trữ danh sách sách đã nhập (sử dụng mảng tĩnh cho phạm vi Tuần 5)
     private static final int MAX_SACH = 100;
